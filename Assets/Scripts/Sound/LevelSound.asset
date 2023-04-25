@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e9989c61294de840bf05ce72b07f66d, type: 3}
+  m_Name: LevelSound
+  m_EditorClassIdentifier: 
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 5cf7c8f34fd6a604aa809cf69081e7b3, type: 3}
+    LevelStage: 0
+  - AudioClip: {fileID: 8300000, guid: a689af73c3a1a924e857b0adf2eb3bac, type: 3}
+    LevelStage: 1
+  - AudioClip: {fileID: 8300000, guid: 995a244c715510d4499c4676f5350872, type: 3}
+    LevelStage: 2
+  - AudioClip: {fileID: 8300000, guid: f96d7969215b5284a9e04795b946df06, type: 3}
+    LevelStage: 3
+  - AudioClip: {fileID: 8300000, guid: d98df6632cc893148b09cd04dcecbdc3, type: 3}
+    LevelStage: 4
+  - AudioClip: {fileID: 8300000, guid: f1c840d2c54927d4291e571807e8769b, type: 3}
+    LevelStage: 5
+  - AudioClip: {fileID: 8300000, guid: ba2fc8f4ce96da94685c2dcd78f501d8, type: 3}
+    LevelStage: 6
+  - AudioClip: {fileID: 8300000, guid: 2ce016e5c4e15a545a84b44bb0efc116, type: 3}
+    LevelStage: 7
